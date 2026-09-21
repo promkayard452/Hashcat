@@ -211,4 +211,4 @@ hashcat is available as a complete free version with all features and updates in
 Unlock your passwords today with hashcat! Download now and experience the power of efficient password recovery.
 
 ---
-**Last updated:** 2026-09-21 05:37:32 UTC
+**Last updated:** 2026-09-21 11:21:26 UTC
